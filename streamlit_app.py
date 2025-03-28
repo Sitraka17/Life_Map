@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 
+
 def create_life_months_grid(life_span, current_age):
     """
     Create a grid representing a person's life in months
